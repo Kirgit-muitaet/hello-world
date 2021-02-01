@@ -1,2 +1,3 @@
 # hello-world
-a repository
+Tracing my roots to my distant alien cusins
+

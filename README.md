@@ -1,3 +1,3 @@
 # hello-world
-a repository
-Here is me maiking a comit
+Tracing my roots to my distant alien cusins
+
